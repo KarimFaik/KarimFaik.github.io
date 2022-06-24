@@ -12,6 +12,8 @@
   <url>
     <loc>https://example.com/post/git/</loc><lastmod>2022-06-24T19:12:50+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/post/latex/</loc><lastmod>2022-06-24T19:12:50+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/post/</loc><lastmod>2022-06-24T19:12:50+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-06-24T18:49:16+03:00</lastmod><changefreq>weekly</changefreq></url>
@@ -19,6 +21,8 @@
     <loc></loc><lastmod>2022-06-24T18:49:16+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/last-week/</loc><lastmod>2022-06-24T18:49:16+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/last_week/</loc><lastmod>2022-06-24T18:49:16+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

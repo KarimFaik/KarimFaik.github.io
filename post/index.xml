@@ -57,6 +57,52 @@
     </item>
     
     <item>
+      <title>Latex</title>
+      <link>https://example.com/post/latex/</link>
+      <pubDate>Fri, 24 Jun 2022 19:12:50 +0300</pubDate>
+      <guid>https://example.com/post/latex/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Latex_logo&#34; srcset=&#34;
+               /post/latex/latex_hu2c29671e5bd198534ed0df0294a81e4b_44146_e2bad712b36e4d4f6a4a7751f75dce79.webp 400w,
+               /post/latex/latex_hu2c29671e5bd198534ed0df0294a81e4b_44146_5c4d2478fe54801ffacaafa086697222.webp 760w,
+               /post/latex/latex_hu2c29671e5bd198534ed0df0294a81e4b_44146_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/latex/latex_hu2c29671e5bd198534ed0df0294a81e4b_44146_e2bad712b36e4d4f6a4a7751f75dce79.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;317&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;LaTeX (/ˈlɑːtɛx/ LAH-tekh or /ˈleɪtɛx/ LAY-tekh, is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in &amp;ldquo;What You See Is What You Get&amp;rdquo; word processors like Microsoft Word, LibreOffice Writer and Apple Pages. The writer uses markup tagging conventions to define the general structure of a document to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A TeX distribution such as TeX Live or MiKTeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.&lt;/p&gt;
+&lt;p&gt;LaTeX is widely used in academia for the communication and publication of scientific documents in many fields, including mathematics, computer science, engineering, physics, chemistry, economics, linguistics, quantitative psychology, philosophy, and political science. It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Sanskrit and Greek. LaTeX uses the TeX typesetting program for formatting its output, and is itself written in the TeX macro language.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;LaTeX was created in the early 1980s by Leslie Lamport, when he was working at SRI. He needed to write TeX macros for his own use, and thought that with a little extra effort he could make a general package usable by others. Peter Gordon, an editor at Addison-Wesley, convinced him to write a LaTeX user&amp;rsquo;s manual for publication (Lamport was initially skeptical that anyone would pay money for it); it came out in 1986 and sold hundreds of thousands of copies. Meanwhile, Lamport released versions of his LaTeX macros in 1984 and 1985. On 21 August 1989, at a TeX Users Group (TUG) meeting at Stanford, Lamport agreed to turn over maintenance and development of LaTeX to Frank Mittelbach. Mittelbach, along with Chris Rowley and Rainer Schöpf, formed the LaTeX3 team; in 1994, they released LaTeX2e, the current standard version. LaTeX3 itself has since been cancelled with version features intended for that version being back-ported to LaTeX 2e since 2018.&lt;/p&gt;
+&lt;h2 id=&#34;related-software&#34;&gt;Related software&lt;/h2&gt;
+&lt;p&gt;As a macro package, LaTeX provides a set of macros for TeX to interpret. There are many other macro packages for TeX, including Plain TeX, GNU Texinfo, AMSTeX, and ConTeXt.&lt;/p&gt;
+&lt;p&gt;When TeX &amp;ldquo;compiles&amp;rdquo; a document, it follows (from the user&amp;rsquo;s point of view) the following processing sequence: Macros → TeX → Driver → Output. Different implementations of each of these steps are typically available in TeX distributions. Traditional TeX will output a DVI file, which is usually converted to a PostScript file. More recently, Hàn Thế Thành and others have written a new implementation of TeX called pdfTeX, which also outputs to PDF and takes advantage of features available in that format. The XeTeX engine developed by Jonathan Kew, on the other hand, merges modern font technologies and Unicode with TeX.&lt;/p&gt;
+&lt;p&gt;The default font for LaTeX is Knuth&amp;rsquo;s Computer Modern, which gives default documents created with LaTeX the same distinctive look as those created with plain TeX. XeTeX allows the use of OpenType and TrueType (that is, outlined) fonts for output files.&lt;/p&gt;
+&lt;p&gt;There are also many editors for LaTeX, some of which are offline, source-code-based while others are online, partial-WYSIWYG-based. For more, see Comparison of TeX editors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Last Week</title>
       <link>https://example.com/post/last-week/</link>
       <pubDate>Fri, 24 Jun 2022 18:49:16 +0300</pubDate>
@@ -70,6 +116,22 @@
 &lt;/ol&gt;
 &lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h2&gt;
 &lt;p&gt;The week has been productive. I did alot of tasks, didn&amp;rsquo;t have alot of free time. I am exited for the next week.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last Week</title>
+      <link>https://example.com/post/last_week/</link>
+      <pubDate>Fri, 24 Jun 2022 18:49:16 +0300</pubDate>
+      <guid>https://example.com/post/last_week/</guid>
+      <description>&lt;h2 id=&#34;how-i-spent-my-last-week&#34;&gt;How i spent my last week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The most important i did was that i builded a road in our countryside.&lt;/li&gt;
+&lt;li&gt;In my free time i placeв brazier&lt;/li&gt;
+&lt;li&gt;I went to gym 2 times.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h2&gt;
+&lt;p&gt;The week has less productive. I didn&amp;rsquo;t do a lot of tasks. Helped a bit around our countryside house.&lt;/p&gt;
 </description>
     </item>
     
