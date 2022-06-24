@@ -103,11 +103,57 @@
     </item>
     
     <item>
+      <title>Presentation</title>
+      <link>https://example.com/post/pres/</link>
+      <pubDate>Fri, 24 Jun 2022 19:12:50 +0300</pubDate>
+      <guid>https://example.com/post/pres/</guid>
+      <description>&lt;h2 id=&#34;how-can-you-make-a-good-presentation-even-more-effective&#34;&gt;How can you make a good presentation even more effective?&lt;/h2&gt;
+&lt;p&gt;This page draws on published advice from expert presenters around the world, which will help to take your presentations from merely ‘good’ to ‘great’.&lt;/p&gt;
+&lt;p&gt;By bringing together advice from a wide range of people, the aim is to cover a whole range of areas.&lt;/p&gt;
+&lt;p&gt;Whether you are an experienced presenter, or just starting out, there should be ideas here to help you to improve.&lt;/p&gt;
+&lt;h2 id=&#34;1-show-your-passion-and-connect-with-your-audience&#34;&gt;1 Show your Passion and Connect with your Audience&lt;/h2&gt;
+&lt;p&gt;It’s hard to be relaxed and be yourself when you’re nervous.&lt;/p&gt;
+&lt;p&gt;But time and again, the great presenters say that the most important thing is to connect with your audience, and the best way to do that is to let your passion for the subject shine through.&lt;/p&gt;
+&lt;p&gt;Be honest with the audience about what is important to you and why it matters.&lt;/p&gt;
+&lt;p&gt;Be enthusiastic and honest, and the audience will respond.&lt;/p&gt;
+&lt;h2 id=&#34;2-focus-on-your-audiences-needs&#34;&gt;2. Focus on your Audience’s Needs&lt;/h2&gt;
+&lt;p&gt;Your presentation needs to be built around what your audience is going to get out of the presentation.&lt;/p&gt;
+&lt;p&gt;As you prepare the presentation, you always need to bear in mind what the audience needs and wants to know, not what you can tell them.&lt;/p&gt;
+&lt;p&gt;While you’re giving the presentation, you also need to remain focused on your audience’s response, and react to that.&lt;/p&gt;
+&lt;p&gt;You need to make it easy for your audience to understand and respond.&lt;/p&gt;
+&lt;h2 id=&#34;3-keep-it-simple-concentrate-on-your-core-message&#34;&gt;3. Keep it Simple: Concentrate on your Core Message&lt;/h2&gt;
+&lt;p&gt;When planning your presentation, you should always keep in mind the question:&lt;/p&gt;
+&lt;p&gt;What is the key message (or three key points) for my audience to take away?&lt;/p&gt;
+&lt;p&gt;You should be able to communicate that key message very briefly.&lt;/p&gt;
+&lt;p&gt;Some experts recommend a 30-second ‘elevator summary’, others that you can write it on the back of a business card, or say it in no more than 15 words.&lt;/p&gt;
+&lt;p&gt;Whichever rule you choose, the important thing is to keep your core message focused and brief.&lt;/p&gt;
+&lt;p&gt;And if what you are planning to say doesn’t contribute to that core message, don’t say it.&lt;/p&gt;
+&lt;h2 id=&#34;4-smile-and-make-eye-contact-with-your-audience&#34;&gt;4. Smile and Make Eye Contact with your Audience&lt;/h2&gt;
+&lt;p&gt;This sounds very easy, but a surprisingly large number of presenters fail to do it.&lt;/p&gt;
+&lt;p&gt;If you smile and make eye contact, you are building rapport, which helps the audience to connect with you and your subject. It also helps you to feel less nervous, because you are talking to individuals, not to a great mass of unknown people.&lt;/p&gt;
+&lt;p&gt;To help you with this, make sure that you don’t turn down all the lights so that only the slide screen is visible. Your audience needs to see you as well as your slides.&lt;/p&gt;
+&lt;h2 id=&#34;5-start-strongly&#34;&gt;5. Start Strongly&lt;/h2&gt;
+&lt;p&gt;The beginning of your presentation is crucial. You need to grab your audience’s attention and hold it.&lt;/p&gt;
+&lt;p&gt;They will give you a few minutes’ grace in which to entertain them, before they start to switch off if you’re dull. So don’t waste that on explaining who you are. Start by entertaining them.&lt;/p&gt;
+&lt;p&gt;Try a story (see tip 7 below), or an attention-grabbing (but useful) image on a slide.&lt;/p&gt;
+&lt;h2 id=&#34;6-remember-the-10-20-30-rule-for-slideshows&#34;&gt;6. Remember the 10-20-30 Rule for Slideshows&lt;/h2&gt;
+&lt;p&gt;This is a tip from Guy Kawasaki of Apple. He suggests that slideshows should:&lt;/p&gt;
+&lt;p&gt;Contain no more than 10 slides;
+Last no more than 20 minutes; and
+Use a font size of no less than 30 point.
+This last is particularly important as it stops you trying to put too much information on any one slide. This whole approach avoids the dreaded ‘Death by PowerPoint’.&lt;/p&gt;
+&lt;p&gt;As a general rule, slides should be the sideshow to you, the presenter. A good set of slides should be no use without the presenter, and they should definitely contain less, rather than more, information, expressed simply.&lt;/p&gt;
+&lt;p&gt;If you need to provide more information, create a bespoke handout and give it out after your presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Last Week</title>
       <link>https://example.com/post/last-week/</link>
       <pubDate>Fri, 24 Jun 2022 18:49:16 +0300</pubDate>
       <guid>https://example.com/post/last-week/</guid>
       <description>&lt;h1 id=&#34;what-i-did-last-week&#34;&gt;What i did last week&lt;/h1&gt;
+&lt;p&gt;week 1&lt;/p&gt;
 &lt;h2 id=&#34;how-i-spent-my-last-week&#34;&gt;How i spent my last week&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The most important i did was my lablatory works.&lt;/li&gt;
@@ -124,7 +170,8 @@
       <link>https://example.com/post/last_week/</link>
       <pubDate>Fri, 24 Jun 2022 18:49:16 +0300</pubDate>
       <guid>https://example.com/post/last_week/</guid>
-      <description>&lt;h2 id=&#34;how-i-spent-my-last-week&#34;&gt;How i spent my last week&lt;/h2&gt;
+      <description>&lt;p&gt;week 2&lt;/p&gt;
+&lt;h2 id=&#34;how-i-spent-my-last-week&#34;&gt;How i spent my last week&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The most important i did was that i builded a road in our countryside.&lt;/li&gt;
 &lt;li&gt;In my free time i placeв brazier&lt;/li&gt;
@@ -132,6 +179,23 @@
 &lt;/ol&gt;
 &lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h2&gt;
 &lt;p&gt;The week has less productive. I didn&amp;rsquo;t do a lot of tasks. Helped a bit around our countryside house.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last Week </title>
+      <link>https://example.com/post/week/</link>
+      <pubDate>Fri, 24 Jun 2022 18:49:16 +0300</pubDate>
+      <guid>https://example.com/post/week/</guid>
+      <description>&lt;p&gt;week 3&lt;/p&gt;
+&lt;h2 id=&#34;how-i-spent-my-last-week&#34;&gt;How i spent my last week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The most important i did find a place ticket to country i was dreaming to tarvel.&lt;/li&gt;
+&lt;li&gt;I got some new clothes&lt;/li&gt;
+&lt;li&gt;bought new sunglases for the beach.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h2&gt;
+&lt;p&gt;So excited to finally travel to country i dreamed of.&lt;/p&gt;
 </description>
     </item>
     
