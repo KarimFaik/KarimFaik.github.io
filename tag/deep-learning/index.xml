@@ -25,5 +25,51 @@
 </description>
     </item>
     
+    <item>
+      <title>My Project work</title>
+      <link>https://example.com/project/project-1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/project-1/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The word project comes from the Latin word projectum from the Latin verb proicere, &amp;ldquo;before an action&amp;rdquo; which in turn comes from pro-, which denotes precedence, something that comes before something else in time (paralleling the Greek πρό) and iacere, &amp;ldquo;to do&amp;rdquo;. The word &amp;ldquo;project&amp;rdquo; thus originally meant &amp;ldquo;before an action&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;When the English language initially adopted the word, it referred to a plan of something, not to the act of actually carrying this plan out. Something performed in accordance with a project became known as an &amp;ldquo;object&amp;rdquo;. Every project has certain phases of development.&lt;/p&gt;
+&lt;p&gt;Based on the Project Management Institute, a project can be defined as a &amp;ldquo;temporary endeavor&amp;rdquo; aimed to drive changes in teams, organizations, or societies. The output of a project is normally a unique product, service, or result.&lt;/p&gt;
+&lt;h2 id=&#34;specific-uses&#34;&gt;Specific uses&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;School and university
+A project is an individual or collaborative enterprise that is carefully planned and researched about by students. At schools, educational institutes and universities, a project is a research assignment - given to a student - which generally requires a larger amount of effort and more independent work than that involved in a normal essay assignment. It requires students to undertake their own fact-finding and analysis, either from library/internet research or from gathering data empirically. The written report that comes from the project is usually in the form of a dissertation, which will contain sections on the project&amp;rsquo;s inception, analysis, findings and conclusions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Project management
+Main article: project management
+In project management a project consists of a temporary endeavor undertaken to create a unique product, service or result. Another definition is: a management environment that is created for the purpose of delivering one or more business products according to a specified business case. Projects can also be seen as temporary organization.
+Project objectives define target status at the end of the project, reaching of which is considered necessary for the achievement of planned benefits. They can be formulated as SMART criteria: Projects are often guided by a steering group.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Specific&lt;/li&gt;
+&lt;li&gt;Measurable (or at least evaluable) achievement&lt;/li&gt;
+&lt;li&gt;Achievable (recently Agreed to or Acceptable are used[by whom?] regularly as well)&lt;/li&gt;
+&lt;li&gt;Realistic (given the current state of organizational resources)&lt;/li&gt;
+&lt;li&gt;Time terminated (bounded)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Civil and military construction and industry infrastructure
+In civil, military and industry (e.g. oil and gas) infrastructure, capital projects refer to activities to construct and install equipment, facilities and buildings. As these activities are temporary endeavors with clear start and end dates, the term &amp;ldquo;project&amp;rdquo; is applied. Because the results of these activities are typically long-standing infrastructure, with a life measured in years or decades, these projects are typically accounted for in financial accounting as capital expenditures, and thus they are termed &amp;ldquo;capital projects&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Computer software
+In computer software, a project can consist of programs, configuration definitions and related data.[citation needed] For example, in Microsoft Visual Studio a &amp;ldquo;solution&amp;rdquo; consists of projects and other definitions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;State project
+It can be defined as &amp;ldquo;a set of state policies and/or agencies unified around a particular issue or oppression&amp;rdquo;. Therefore, these kinds of projects involve constant change and dynamism due to the social constructions evolve among time. State projects have to adapt to the current moment. They are mostly community services based.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -148,6 +148,70 @@ This last is particularly important as it stops you trying to put too much infor
     </item>
     
     <item>
+      <title>Python</title>
+      <link>https://example.com/post/lang/</link>
+      <pubDate>Fri, 24 Jun 2022 19:12:50 +0300</pubDate>
+      <guid>https://example.com/post/lang/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Latex_logo&#34; srcset=&#34;
+               /post/lang/download_hufd7ec127fb319427a0abafeb382a556d_3486_23338f1a8dac3e3fd3bb8a6daa108ada.webp 400w,
+               /post/lang/download_hufd7ec127fb319427a0abafeb382a556d_3486_5b5927be07ed3f5adfde6a565697c1f9.webp 760w,
+               /post/lang/download_hufd7ec127fb319427a0abafeb382a556d_3486_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lang/download_hufd7ec127fb319427a0abafeb382a556d_3486_23338f1a8dac3e3fd3bb8a6daa108ada.webp&#34;
+               width=&#34;387&#34;
+               height=&#34;130&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.&lt;/p&gt;
+&lt;p&gt;Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a &amp;ldquo;batteries included&amp;rdquo; language due to its comprehensive standard library.&lt;/p&gt;
+&lt;p&gt;Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0. Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.&lt;/p&gt;
+&lt;p&gt;Python consistently ranks as one of the most popular programming languages.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde &amp;amp; Informatica (CWI) in the Netherlands as a successor to the ABC programming language, which was inspired by SETL, capable of exception handling and interfacing with the Amoeba operating system.Its implementation began in December 1989. Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his &amp;ldquo;permanent vacation&amp;rdquo; from his responsibilities as Python&amp;rsquo;s &amp;ldquo;benevolent dictator for life&amp;rdquo;, a title the Python community bestowed upon him to reflect his long-term commitment as the project&amp;rsquo;s chief decision-maker. In January 2019, active Python core developers elected a five-member Steering Council to lead the project.&lt;/p&gt;
+&lt;p&gt;Python 2.0 was released on 16 October 2000, with many major new features. Python 3.0, released on 3 December 2008, with many of its major features backported to Python 2.6.x and 2.7.x. Releases of Python 3 include the 2to3 utility, which automates the translation of Python 2 code to Python 3.&lt;/p&gt;
+&lt;p&gt;Python 2.7&amp;rsquo;s end-of-life was initially set for 2015, then postponed to 2020 out of concern that a large body of existing code could not easily be forward-ported to Python 3. No further security patches or other improvements will be released for it. With Python 2&amp;rsquo;s end-of-life, only Python 3.6.x and later were supported. Later, support for 3.6 was also discontinued. In 2021, Python 3.9.2 and 3.8.8 were expedited as all versions of Python (including 2.7) had security issues leading to possible remote code executionand web cache poisoning.&lt;/p&gt;
+&lt;p&gt;In 2022, Python 3.10.4 and 3.9.12 were expedited and so were older releases including 3.8.13, and 3.7.13 because of many security issues in 2022. Python 3.9.13 is the latest 3.9 version, and from now on 3.9 (and older; 3.8 and 3.7) will only get security updates.&lt;/p&gt;
+&lt;h2 id=&#34;design-philosophy-and-features&#34;&gt;Design philosophy and features&lt;/h2&gt;
+&lt;p&gt;Python is a multi-paradigm programming language. Object-oriented programming and structured programming are fully supported, and many of its features support functional programming and aspect-oriented programming (including metaprogramming and metaobjects [magic methods] ).Many other paradigms are supported via extensions, including design by contract and logic programming.&lt;/p&gt;
+&lt;p&gt;Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management. It uses dynamic name resolution (late binding), which binds method and variable names during program execution.&lt;/p&gt;
+&lt;p&gt;Its design offers some support for functional programming in the Lisp tradition. It has filter,mapandreduce functions; list comprehensions, dictionaries, sets, and generator expressions. The standard library has two modules (itertools and functools) that implement functional tools borrowed from Haskell and Standard ML.&lt;/p&gt;
+&lt;p&gt;Its core philosophy is summarized in the document The Zen of Python (PEP 20), which includes aphorisms such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Beautiful is better than ugly.&lt;/li&gt;
+&lt;li&gt;Explicit is better than implicit.&lt;/li&gt;
+&lt;li&gt;Simple is better than complex.&lt;/li&gt;
+&lt;li&gt;Complex is better than complicated.&lt;/li&gt;
+&lt;li&gt;Readability counts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Rather than building all of its functionality into its core, Python was designed to be highly extensible via modules. This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Van Rossum&amp;rsquo;s vision of a small core language with a large standard library and easily extensible interpreter stemmed from his frustrations with ABC, which espoused the opposite approach.&lt;/p&gt;
+&lt;p&gt;Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology. In contrast to Perl&amp;rsquo;s &amp;ldquo;there is more than one way to do it&amp;rdquo; motto, Python embraces a &amp;ldquo;there should be one—and preferably only one—obvious way to do it&amp;rdquo; philosophy. Alex Martelli, a Fellow at the Python Software Foundation and Python book author, wrote: &amp;ldquo;To describe something as &amp;lsquo;clever&amp;rsquo; is not considered a compliment in the Python culture.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Python&amp;rsquo;s developers strive to avoid premature optimization and reject patches to non-critical parts of the CPython reference implementation that would offer marginal increases in speed at the cost of clarity. When speed is important, a Python programmer can move time-critical functions to extension modules written in languages such as C; or use PyPy, a just-in-time compiler. Cython is also available, which translates a Python script into C and makes direct C-level API calls into the Python interpreter.&lt;/p&gt;
+&lt;p&gt;Python&amp;rsquo;s developers aim for it to be fun to use. This is reflected in its name a tribute to the British comedy group Monty Python and in occasionally playful approaches to tutorials and reference materials, such as examples that refer to spam and eggs (a reference to a Monty Python sketch) instead of the standard foo and bar.&lt;/p&gt;
+&lt;p&gt;A common neologism in the Python community is pythonic, which has a wide range of meanings related to program style. &amp;ldquo;Pythonic&amp;rdquo; code may use Python idioms well, be natural or show fluency in the language, or conform with Python&amp;rsquo;s minimalist philosophy and emphasis on readability. Code that is difficult to understand or reads like a rough transcription from another programming language is called unpythonic.&lt;/p&gt;
+&lt;p&gt;Python users and admirers, especially those considered knowledgeable or experienced, are often referred to as Pythonistas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Last Week</title>
       <link>https://example.com/post/last-week/</link>
       <pubDate>Fri, 24 Jun 2022 18:49:16 +0300</pubDate>
@@ -162,6 +226,23 @@ This last is particularly important as it stops you trying to put too much infor
 &lt;/ol&gt;
 &lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h2&gt;
 &lt;p&gt;The week has been productive. I did alot of tasks, didn&amp;rsquo;t have alot of free time. I am exited for the next week.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last Week</title>
+      <link>https://example.com/post/last-week4/</link>
+      <pubDate>Fri, 24 Jun 2022 18:49:16 +0300</pubDate>
+      <guid>https://example.com/post/last-week4/</guid>
+      <description>&lt;p&gt;week 4&lt;/p&gt;
+&lt;h2 id=&#34;how-i-spent-my-last-week&#34;&gt;How i spent my last week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The most important i did was i travelled country i dreamed of.&lt;/li&gt;
+&lt;li&gt;In my free time of tour i went to beach.&lt;/li&gt;
+&lt;li&gt;I found new friend there.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h2&gt;
+&lt;p&gt;It was amazing.I had a lot of fun there; found new friends, got taned and swam in the sea.&lt;/p&gt;
 </description>
     </item>
     

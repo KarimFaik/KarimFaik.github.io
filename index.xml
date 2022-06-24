@@ -168,6 +168,70 @@ This last is particularly important as it stops you trying to put too much infor
     </item>
     
     <item>
+      <title>Python</title>
+      <link>https://example.com/post/lang/</link>
+      <pubDate>Fri, 24 Jun 2022 19:12:50 +0300</pubDate>
+      <guid>https://example.com/post/lang/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Latex_logo&#34; srcset=&#34;
+               /post/lang/download_hufd7ec127fb319427a0abafeb382a556d_3486_23338f1a8dac3e3fd3bb8a6daa108ada.webp 400w,
+               /post/lang/download_hufd7ec127fb319427a0abafeb382a556d_3486_5b5927be07ed3f5adfde6a565697c1f9.webp 760w,
+               /post/lang/download_hufd7ec127fb319427a0abafeb382a556d_3486_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/lang/download_hufd7ec127fb319427a0abafeb382a556d_3486_23338f1a8dac3e3fd3bb8a6daa108ada.webp&#34;
+               width=&#34;387&#34;
+               height=&#34;130&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.&lt;/p&gt;
+&lt;p&gt;Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a &amp;ldquo;batteries included&amp;rdquo; language due to its comprehensive standard library.&lt;/p&gt;
+&lt;p&gt;Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0. Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.&lt;/p&gt;
+&lt;p&gt;Python consistently ranks as one of the most popular programming languages.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde &amp;amp; Informatica (CWI) in the Netherlands as a successor to the ABC programming language, which was inspired by SETL, capable of exception handling and interfacing with the Amoeba operating system.Its implementation began in December 1989. Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his &amp;ldquo;permanent vacation&amp;rdquo; from his responsibilities as Python&amp;rsquo;s &amp;ldquo;benevolent dictator for life&amp;rdquo;, a title the Python community bestowed upon him to reflect his long-term commitment as the project&amp;rsquo;s chief decision-maker. In January 2019, active Python core developers elected a five-member Steering Council to lead the project.&lt;/p&gt;
+&lt;p&gt;Python 2.0 was released on 16 October 2000, with many major new features. Python 3.0, released on 3 December 2008, with many of its major features backported to Python 2.6.x and 2.7.x. Releases of Python 3 include the 2to3 utility, which automates the translation of Python 2 code to Python 3.&lt;/p&gt;
+&lt;p&gt;Python 2.7&amp;rsquo;s end-of-life was initially set for 2015, then postponed to 2020 out of concern that a large body of existing code could not easily be forward-ported to Python 3. No further security patches or other improvements will be released for it. With Python 2&amp;rsquo;s end-of-life, only Python 3.6.x and later were supported. Later, support for 3.6 was also discontinued. In 2021, Python 3.9.2 and 3.8.8 were expedited as all versions of Python (including 2.7) had security issues leading to possible remote code executionand web cache poisoning.&lt;/p&gt;
+&lt;p&gt;In 2022, Python 3.10.4 and 3.9.12 were expedited and so were older releases including 3.8.13, and 3.7.13 because of many security issues in 2022. Python 3.9.13 is the latest 3.9 version, and from now on 3.9 (and older; 3.8 and 3.7) will only get security updates.&lt;/p&gt;
+&lt;h2 id=&#34;design-philosophy-and-features&#34;&gt;Design philosophy and features&lt;/h2&gt;
+&lt;p&gt;Python is a multi-paradigm programming language. Object-oriented programming and structured programming are fully supported, and many of its features support functional programming and aspect-oriented programming (including metaprogramming and metaobjects [magic methods] ).Many other paradigms are supported via extensions, including design by contract and logic programming.&lt;/p&gt;
+&lt;p&gt;Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management. It uses dynamic name resolution (late binding), which binds method and variable names during program execution.&lt;/p&gt;
+&lt;p&gt;Its design offers some support for functional programming in the Lisp tradition. It has filter,mapandreduce functions; list comprehensions, dictionaries, sets, and generator expressions. The standard library has two modules (itertools and functools) that implement functional tools borrowed from Haskell and Standard ML.&lt;/p&gt;
+&lt;p&gt;Its core philosophy is summarized in the document The Zen of Python (PEP 20), which includes aphorisms such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Beautiful is better than ugly.&lt;/li&gt;
+&lt;li&gt;Explicit is better than implicit.&lt;/li&gt;
+&lt;li&gt;Simple is better than complex.&lt;/li&gt;
+&lt;li&gt;Complex is better than complicated.&lt;/li&gt;
+&lt;li&gt;Readability counts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Rather than building all of its functionality into its core, Python was designed to be highly extensible via modules. This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Van Rossum&amp;rsquo;s vision of a small core language with a large standard library and easily extensible interpreter stemmed from his frustrations with ABC, which espoused the opposite approach.&lt;/p&gt;
+&lt;p&gt;Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology. In contrast to Perl&amp;rsquo;s &amp;ldquo;there is more than one way to do it&amp;rdquo; motto, Python embraces a &amp;ldquo;there should be one—and preferably only one—obvious way to do it&amp;rdquo; philosophy. Alex Martelli, a Fellow at the Python Software Foundation and Python book author, wrote: &amp;ldquo;To describe something as &amp;lsquo;clever&amp;rsquo; is not considered a compliment in the Python culture.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Python&amp;rsquo;s developers strive to avoid premature optimization and reject patches to non-critical parts of the CPython reference implementation that would offer marginal increases in speed at the cost of clarity. When speed is important, a Python programmer can move time-critical functions to extension modules written in languages such as C; or use PyPy, a just-in-time compiler. Cython is also available, which translates a Python script into C and makes direct C-level API calls into the Python interpreter.&lt;/p&gt;
+&lt;p&gt;Python&amp;rsquo;s developers aim for it to be fun to use. This is reflected in its name a tribute to the British comedy group Monty Python and in occasionally playful approaches to tutorials and reference materials, such as examples that refer to spam and eggs (a reference to a Monty Python sketch) instead of the standard foo and bar.&lt;/p&gt;
+&lt;p&gt;A common neologism in the Python community is pythonic, which has a wide range of meanings related to program style. &amp;ldquo;Pythonic&amp;rdquo; code may use Python idioms well, be natural or show fluency in the language, or conform with Python&amp;rsquo;s minimalist philosophy and emphasis on readability. Code that is difficult to understand or reads like a rough transcription from another programming language is called unpythonic.&lt;/p&gt;
+&lt;p&gt;Python users and admirers, especially those considered knowledgeable or experienced, are often referred to as Pythonistas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Last Week</title>
       <link>https://example.com/post/last-week/</link>
       <pubDate>Fri, 24 Jun 2022 18:49:16 +0300</pubDate>
@@ -182,6 +246,23 @@ This last is particularly important as it stops you trying to put too much infor
 &lt;/ol&gt;
 &lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h2&gt;
 &lt;p&gt;The week has been productive. I did alot of tasks, didn&amp;rsquo;t have alot of free time. I am exited for the next week.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last Week</title>
+      <link>https://example.com/post/last-week4/</link>
+      <pubDate>Fri, 24 Jun 2022 18:49:16 +0300</pubDate>
+      <guid>https://example.com/post/last-week4/</guid>
+      <description>&lt;p&gt;week 4&lt;/p&gt;
+&lt;h2 id=&#34;how-i-spent-my-last-week&#34;&gt;How i spent my last week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The most important i did was i travelled country i dreamed of.&lt;/li&gt;
+&lt;li&gt;In my free time of tour i went to beach.&lt;/li&gt;
+&lt;li&gt;I found new friend there.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h2&gt;
+&lt;p&gt;It was amazing.I had a lot of fun there; found new friends, got taned and swam in the sea.&lt;/p&gt;
 </description>
     </item>
     
@@ -433,6 +514,52 @@ $$&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Project work</title>
+      <link>https://example.com/project/project-1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/project-1/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The word project comes from the Latin word projectum from the Latin verb proicere, &amp;ldquo;before an action&amp;rdquo; which in turn comes from pro-, which denotes precedence, something that comes before something else in time (paralleling the Greek πρό) and iacere, &amp;ldquo;to do&amp;rdquo;. The word &amp;ldquo;project&amp;rdquo; thus originally meant &amp;ldquo;before an action&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;When the English language initially adopted the word, it referred to a plan of something, not to the act of actually carrying this plan out. Something performed in accordance with a project became known as an &amp;ldquo;object&amp;rdquo;. Every project has certain phases of development.&lt;/p&gt;
+&lt;p&gt;Based on the Project Management Institute, a project can be defined as a &amp;ldquo;temporary endeavor&amp;rdquo; aimed to drive changes in teams, organizations, or societies. The output of a project is normally a unique product, service, or result.&lt;/p&gt;
+&lt;h2 id=&#34;specific-uses&#34;&gt;Specific uses&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;School and university
+A project is an individual or collaborative enterprise that is carefully planned and researched about by students. At schools, educational institutes and universities, a project is a research assignment - given to a student - which generally requires a larger amount of effort and more independent work than that involved in a normal essay assignment. It requires students to undertake their own fact-finding and analysis, either from library/internet research or from gathering data empirically. The written report that comes from the project is usually in the form of a dissertation, which will contain sections on the project&amp;rsquo;s inception, analysis, findings and conclusions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Project management
+Main article: project management
+In project management a project consists of a temporary endeavor undertaken to create a unique product, service or result. Another definition is: a management environment that is created for the purpose of delivering one or more business products according to a specified business case. Projects can also be seen as temporary organization.
+Project objectives define target status at the end of the project, reaching of which is considered necessary for the achievement of planned benefits. They can be formulated as SMART criteria: Projects are often guided by a steering group.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Specific&lt;/li&gt;
+&lt;li&gt;Measurable (or at least evaluable) achievement&lt;/li&gt;
+&lt;li&gt;Achievable (recently Agreed to or Acceptable are used[by whom?] regularly as well)&lt;/li&gt;
+&lt;li&gt;Realistic (given the current state of organizational resources)&lt;/li&gt;
+&lt;li&gt;Time terminated (bounded)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Civil and military construction and industry infrastructure
+In civil, military and industry (e.g. oil and gas) infrastructure, capital projects refer to activities to construct and install equipment, facilities and buildings. As these activities are temporary endeavors with clear start and end dates, the term &amp;ldquo;project&amp;rdquo; is applied. Because the results of these activities are typically long-standing infrastructure, with a life measured in years or decades, these projects are typically accounted for in financial accounting as capital expenditures, and thus they are termed &amp;ldquo;capital projects&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Computer software
+In computer software, a project can consist of programs, configuration definitions and related data.[citation needed] For example, in Microsoft Visual Studio a &amp;ldquo;solution&amp;rdquo; consists of projects and other definitions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;State project
+It can be defined as &amp;ldquo;a set of state policies and/or agencies unified around a particular issue or oppression&amp;rdquo;. Therefore, these kinds of projects involve constant change and dynamism due to the social constructions evolve among time. State projects have to adapt to the current moment. They are mostly community services based.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
